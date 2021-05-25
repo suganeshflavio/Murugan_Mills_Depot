@@ -2,6 +2,7 @@ import AOS from "aos";
 import "aos/dist/aos.css";
 import "lightgallery.js/dist/css/lightgallery.css";
 import { useEffect } from "react";
+import "react-modal-video/scss/modal-video.scss";
 import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import "swiper/components/pagination/pagination.scss";
 import "swiper/swiper.scss";
@@ -17,6 +18,7 @@ import Blog from "./pages/blog";
 import Contact from "./pages/contact";
 import HomePage from "./pages/index";
 import Portfolio from "./pages/portfolio";
+import VideoGallery from "./pages/video-gallery";
 import BlogAuthor from "./templates/blog-author";
 import BlogCategory from "./templates/blog-category";
 import BlogDate from "./templates/blog-date";
@@ -50,6 +52,10 @@ const App = () => {
                     <Route
                         path={`${process.env.PUBLIC_URL + "/portfolio"}`}
                         component={Portfolio}
+                    />
+                    <Route
+                        path={`${process.env.PUBLIC_URL + "/video-gallery"}`}
+                        component={VideoGallery}
                     />
                     <Route
                         path={`${

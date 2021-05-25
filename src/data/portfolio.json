@@ -1,6 +1,7 @@
 [
     {
         "id": 1,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-1.jpg",
         "title": "Daniel Raclift",
         "excerpt": "Mango Fashion Lookbook Campaign",
@@ -27,6 +28,7 @@
     },
     {
         "id": 2,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-2.jpg",
         "title": "Designer Linocut",
         "excerpt": "Mango Fashion Lookbook Campaign",
@@ -53,7 +55,9 @@
     },
     {
         "id": 3,
+        "type": "video",
         "homeImage": "img/portfolio/portfolio-3.jpg",
+        "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
         "title": "Designer Collagraph",
         "excerpt": "Mango Fashion Lookbook Campaign",
         "categories": ["background", "old"],
@@ -79,6 +83,7 @@
     },
     {
         "id": 4,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-4.jpg",
         "title": "Designer Engraving",
         "excerpt": "Mango Fashion Lookbook Campaign",
@@ -105,6 +110,7 @@
     },
     {
         "id": 5,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-5.jpg",
         "title": "Working Remotely",
         "excerpt": "Mango Fashion Lookbook Campaign",
@@ -131,6 +137,7 @@
     },
     {
         "id": 6,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-7.jpg",
         "title": "White Paper",
         "excerpt": "Mango Fashion Lookbook Campaign",
@@ -157,6 +164,7 @@
     },
     {
         "id": 7,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-8.jpg",
         "title": "Connect Online",
         "excerpt": "Mango Fashion Lookbook Campaign",
@@ -183,6 +191,7 @@
     },
     {
         "id": 8,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-6.jpg",
         "title": "Dog With Fun",
         "excerpt": "Mango Fashion Lookbook Campaign",
@@ -209,6 +218,7 @@
     },
     {
         "id": 9,
+        "type": "image",
         "homeImage": "img/portfolio/portfolio-9.jpg",
         "title": "Salfe Made",
         "excerpt": "Mango Fashion Lookbook Campaign",
