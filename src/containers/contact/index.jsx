@@ -1,4 +1,4 @@
-import ContactForm from "../../components/contact-form";
+// import ContactForm from "../../components/contact-form";
 import ContactInfo from "../../components/contact-info";
 import ContactData from "../../data/global/contact.json";
 
@@ -35,7 +35,7 @@ const ContactContainer = () => {
                             <div className="text-center" data-aos="fade-up">
                                 <h2 className="title">Get In Touch</h2>
                             </div>
-                            <ContactForm />
+                            {/* <ContactForm /> */}
                         </div>
                     </div>
                 </div>

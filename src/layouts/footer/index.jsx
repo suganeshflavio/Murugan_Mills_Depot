@@ -1,7 +1,9 @@
 import { Link } from "react-router-dom";
-import FooterLogo from "../../components/footer-logo";
+// import FooterLogo from "../../components/footer-logo";
 
 const Footer = () => {
+    const d = new Date();
+    const year = d.getFullYear();
     return (
         <footer className="footer-area reveal-footer border-top-style">
             <div className="container-fluid">
@@ -16,20 +18,20 @@ const Footer = () => {
                                                 <Link
                                                     to={
                                                         process.env.PUBLIC_URL +
-                                                        "/"
+                                                        "/about"
                                                     }
                                                 >
-                                                    term &amp; condition
+                                                    about
                                                 </Link>
                                             </li>
                                             <li>
                                                 <Link
                                                     to={
                                                         process.env.PUBLIC_URL +
-                                                        "/"
+                                                        "/contact"
                                                     }
                                                 >
-                                                    policy
+                                                    contact
                                                 </Link>
                                             </li>
                                             <li>
@@ -48,21 +50,16 @@ const Footer = () => {
                             </div>
                             <div className="widget-item text-center">
                                 <div className="about-widget">
-                                    <FooterLogo
+                                    {/* <FooterLogo
                                         image={`${process.env.PUBLIC_URL}/img/logo.png`}
-                                    />
+                                    /> */}
+                                    <h3>Murugan Mills Depot</h3>
                                 </div>
                                 <div className="widget-copyright">
                                     <p>
-                                        © 2021 <span>Alexis</span>. Made with{" "}
-                                        <i className="icofont-heart-alt"></i> by{" "}
-                                        <a
-                                            target="_blank"
-                                            href="https://www.hasthemes.com"
-                                            rel="noreferrer"
-                                        >
-                                            HasThemes
-                                        </a>
+                                        © {year}{" "}
+                                        <span>Murugan Mills Depot</span> | All
+                                        Rights Reserved
                                     </p>
                                 </div>
                             </div>
