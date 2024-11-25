@@ -57,7 +57,7 @@ const Header = ({ classOption }) => {
                                 {/* <Logo
                                     image={`${process.env.PUBLIC_URL}/img/logo.png`}
                                 /> */}
-                                <h3>Murugan Mills Depot</h3>
+                                {/* <h3>Murugan Mills Depot</h3> */}
                             </div>
                         </div>
 
