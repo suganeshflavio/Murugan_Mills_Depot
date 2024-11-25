@@ -12,7 +12,7 @@ const HomePage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Alexis – Photography React JS Template" />
+                <SEO title="Murugan-Mills-Depot – Portfolio" />
                 <div className="wrapper home-default-wrapper">
                     <Header />
                     {/* <IntroContainer /> */}
