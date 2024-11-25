@@ -41,7 +41,7 @@ const PortfolioContainer = () => {
 
                 <div className="row">
                     <div className="col-lg-12 text-center mt-60">
-                        <button className="btn-portfolio">loading</button>
+                        {/* <button className="btn-portfolio">loading</button> */}
                     </div>
                 </div>
             </div>

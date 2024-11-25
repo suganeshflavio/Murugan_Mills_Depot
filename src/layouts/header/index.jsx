@@ -4,6 +4,7 @@ import HamburgerMenu from "../../components/hamburger-menu";
 import HeaderSearch from "../../components/header-search";
 import Logo from "../../components/logo/index";
 import PopupSearch from "../../components/popup-search";
+import { Link } from "react-router-dom";
 
 const Header = ({ classOption }) => {
     const [ofcanvasShow, setOffcanvasShow] = useState(false);
@@ -60,8 +61,33 @@ const Header = ({ classOption }) => {
                             </div>
                         </div>
 
+                        {/* <div className="col-auto">
+                            <div className="header-action-area">
+                                <span
+                                    className="menu-text"
+                                    style={{ width: "150px !important" }}
+                                >
+                                    <Link
+                                        to={process.env.PUBLIC_URL + "/contact"}
+                                    >
+                                        <h6>Contact Us</h6>
+                                    </Link>
+                                </span>
+                            </div>
+                        </div> */}
                         <div className="col-auto">
-                            <HeaderSearch onClick={onSearchHandler} />
+                            <div
+                                className="header-logo-area"
+                                style={{ display: "flex" }}
+                            >
+                                <Link to={process.env.PUBLIC_URL + "/about"}>
+                                    <h6>About</h6>
+                                </Link>
+                                &nbsp; &nbsp; &nbsp;
+                                <Link to={process.env.PUBLIC_URL + "/contact"}>
+                                    <h6>Contact</h6>
+                                </Link>{" "}
+                            </div>
                         </div>
                     </div>
                 </div>
