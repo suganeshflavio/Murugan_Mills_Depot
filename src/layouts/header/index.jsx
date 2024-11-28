@@ -39,6 +39,28 @@ const Header = ({ classOption }) => {
                 <div className="container-fluid">
                     <div className="row align-items-center justify-content-between">
                         <div className="col-auto">
+                            <div className="header-logo-area">
+                                {/* <Logo
+                                    image={`${process.env.PUBLIC_URL}/img/logo.png`}
+                                /> */}
+                                <h3>Murugan Mills Depot</h3>
+                            </div>
+                        </div>
+                        <div className="col-auto">
+                            <div
+                                className="header-logo-area"
+                                style={{ display: "flex" }}
+                            >
+                                <Link to={process.env.PUBLIC_URL + "/about"}>
+                                    <h6>About</h6>
+                                </Link>
+                                &nbsp; &nbsp; &nbsp;
+                                <Link to={process.env.PUBLIC_URL + "/contact"}>
+                                    <h6>Contact</h6>
+                                </Link>{" "}
+                            </div>
+                        </div>
+                        <div className="col-auto">
                             <div className="header-action-area">
                                 <button
                                     className="btn-menu"
@@ -49,15 +71,6 @@ const Header = ({ classOption }) => {
                                     <span></span>
                                 </button>
                                 <span className="menu-text">Menu</span>
-                            </div>
-                        </div>
-
-                        <div className="col-auto">
-                            <div className="header-logo-area">
-                                {/* <Logo
-                                    image={`${process.env.PUBLIC_URL}/img/logo.png`}
-                                /> */}
-                                {/* <h3>Murugan Mills Depot</h3> */}
                             </div>
                         </div>
 
@@ -75,20 +88,6 @@ const Header = ({ classOption }) => {
                                 </span>
                             </div>
                         </div> */}
-                        <div className="col-auto">
-                            <div
-                                className="header-logo-area"
-                                style={{ display: "flex" }}
-                            >
-                                <Link to={process.env.PUBLIC_URL + "/about"}>
-                                    <h6>About</h6>
-                                </Link>
-                                &nbsp; &nbsp; &nbsp;
-                                <Link to={process.env.PUBLIC_URL + "/contact"}>
-                                    <h6>Contact</h6>
-                                </Link>{" "}
-                            </div>
-                        </div>
                     </div>
                 </div>
             </header>
