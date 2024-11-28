@@ -24,7 +24,7 @@ const PortfolioContainer = () => {
                         </div>
                     </div>
                 </div>
-                <div className="row row-cols-1 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 portfolio-list mb-n30">
+                <div className="row row-cols-2 row-cols-sm-2 row-cols-lg-3 row-cols-xl-4 portfolio-list mb-n30">
                     <div className="col resizer"></div>
                     {PortfolioData &&
                         PortfolioData.map((portfolio) => (
