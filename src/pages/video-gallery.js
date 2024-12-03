@@ -11,12 +11,12 @@ const VideoGallery = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Alexis || Video Gallery" />
+                <SEO title="Murugan Mills Depot || Portfolio" />
                 <div className="wrapper home-default-wrapper">
                     <Header classOption="hb-border" />
                     <div className="main-content">
                         <PageTitleContainerTwo
-                            subTitle="Video Gallery"
+                            subTitle="Portfolio"
                             title="Write &amp; Share"
                         />
                         <VideoGalleryContainer />

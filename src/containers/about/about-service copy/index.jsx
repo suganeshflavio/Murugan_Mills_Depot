@@ -10,10 +10,11 @@ const AboutService = () => {
                         className="col-lg-12 col-xl-12 mb-sm-50 mb-md-70"
                         data-aos="fade-up"
                     >
-                        <h2 className="title">{AboutData[0].title}</h2>
+                        <h2 className="title">{AboutData[1].title}</h2>
                         <p
+                            style={{ marginBottom: "25px" }}
                             dangerouslySetInnerHTML={{
-                                __html: AboutData[0].excerpt,
+                                __html: AboutData[1].excerpt,
                             }}
                         />
                     </div>

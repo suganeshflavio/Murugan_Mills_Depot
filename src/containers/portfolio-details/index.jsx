@@ -17,7 +17,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                     <div className="col-lg-12">
                         <div className="inner-content">
                             <div className="content" data-aos="fade-up">
-                                <p className="category">{cate}</p>
+                                {/* <p className="category">{cate}</p> */}
                                 <h3 className="title">{data.title}</h3>
                             </div>
                             <div className="portfolio-info">
@@ -27,7 +27,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                                         data-aos="fade-up"
                                     >
                                         <div className="info-item">
-                                            <span>Client</span>
+                                            <span>Count</span>
                                             <p
                                                 dangerouslySetInnerHTML={{
                                                     __html: data.client,
@@ -41,7 +41,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                                         data-aos-delay="300"
                                     >
                                         <div className="info-item">
-                                            <span>Date</span>
+                                            <span>Reed pick</span>
                                             <p
                                                 dangerouslySetInnerHTML={{
                                                     __html: data.date,
@@ -55,7 +55,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                                         data-aos-delay="600"
                                     >
                                         <div className="info-item">
-                                            <span>Team</span>
+                                            <span>Fabric details</span>
                                             <p
                                                 dangerouslySetInnerHTML={{
                                                     __html: data.team,
@@ -69,7 +69,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                                         data-aos-delay="900"
                                     >
                                         <div className="info-item style-two">
-                                            <span>Services</span>
+                                            <span>Width(In Inches):</span>
                                             <p
                                                 dangerouslySetInnerHTML={{
                                                     __html: data.services,
@@ -94,16 +94,16 @@ const PortfolioDetailsContainer = ({ data }) => {
                                         />
                                     );
                                 })}
-                                <Link
+                                {/* <Link
                                     to={
                                         process.env.PUBLIC_URL +
                                         data.pageUrl.link
                                     }
                                 >
                                     {data.pageUrl.text}
-                                </Link>
+                                </Link> */}
                             </div>
-                            <div
+                            {/* <div
                                 className="thumb section-padding-bottom"
                                 data-aos="fade-up"
                                 data-aos-delay="300"
@@ -128,12 +128,12 @@ const PortfolioDetailsContainer = ({ data }) => {
                                         />
                                     </div>
                                 </div>
-                            </div>
+                            </div> */}
                         </div>
                     </div>
                 </div>
             </div>
-            <div className="container-fluid p-0">
+            {/* <div className="container-fluid p-0">
                 <div className="row">
                     <div className="col-lg-12" data-aos="fade-up">
                         <div className="thumb section-padding-bottom">
@@ -169,9 +169,9 @@ const PortfolioDetailsContainer = ({ data }) => {
                         />
                     </div>
                 </div>
-            </div>
+            </div> */}
             <div className="container">
-                <div className="row">
+                {/* <div className="row">
                     <div className="col-lg-12" data-aos="fade-up">
                         <div className="social-icons">
                             <span>Share:</span>
@@ -219,7 +219,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                             <i className="arrow_carrot-right_alt2"></i>
                         </Link>
                     </div>
-                </div>
+                </div> */}
                 <div className="row">
                     <div
                         className="col-lg-12"
@@ -232,13 +232,11 @@ const PortfolioDetailsContainer = ({ data }) => {
                                     <i className="arrow_carrot-left"></i>{" "}
                                     Previous
                                 </Link>
-                                Sample Project
                             </div>
                             <div className="next">
                                 <Link to={process.env.PUBLIC_URL + "/"}>
                                     Next <i className="arrow_carrot-right"></i>
                                 </Link>
-                                Sample Project
                             </div>
                         </div>
                     </div>

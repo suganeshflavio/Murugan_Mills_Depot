@@ -8,7 +8,7 @@
         "categories": ["cotton"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
@@ -27,23 +27,23 @@
         }
     },
     {
-        "id": 1,
+        "id": 2,
         "type": "image",
-        "homeImage": "img/product/cotton2.jpg",
+        "homeImage": "img/product/cotton6.jpg",
         "excerpt": "Cotton Fabric",
         "title": "2/2 Matty RFD Cotton Fabric Material",
         "categories": ["cotton"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "client": "40s X 40s",
+        "date": "100X76",
+        "team": "GSM - 103 <br />Color - Blue",
+        "services": "58 <br />100% COTTON",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
             ""
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "img/product/cotton2.jpg"
+            "link": "img/product/cotton6.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -54,7 +54,7 @@
         }
     },
     {
-        "id": 1,
+        "id": 3,
         "type": "image",
         "homeImage": "img/product/cotton3.jpg",
         "excerpt": "Cotton Fabric",
@@ -62,7 +62,7 @@
         "categories": ["cotton"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
@@ -81,7 +81,7 @@
         }
     },
     {
-        "id": 1,
+        "id": 4,
         "type": "image",
         "homeImage": "img/product/cotton4.jpg",
         "excerpt": "Cotton Fabric",
@@ -89,7 +89,7 @@
         "categories": ["cotton"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
@@ -108,7 +108,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 5,
         "type": "image",
         "homeImage": "img/product/viscos.jpg",
         "excerpt": "Rayon Fabric",
@@ -116,7 +116,7 @@
         "categories": ["Viscose"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
@@ -135,7 +135,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 6,
         "type": "image",
         "homeImage": "img/product/viscos2.jpg",
         "excerpt": "Viscose Fabric",
@@ -143,7 +143,7 @@
         "categories": ["Viscose"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
@@ -162,7 +162,7 @@
         }
     },
     {
-        "id": 2,
+        "id": 7,
         "type": "image",
         "homeImage": "img/product/viscos3.jpg",
         "excerpt": "Viscos Fabric",
@@ -170,197 +170,7 @@
         "categories": ["Viscose"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 3,
-        "type": "video",
-        "homeImage": "img/product/cotton.jpg",
-        "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
-        "title": "Designer Collagraph",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["Linen"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 4,
-        "type": "image",
-        "homeImage": "img/product/viscos3.jpg",
-        "title": "Designer Engraving",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["Polyester"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 5,
-        "type": "image",
-        "homeImage": "img/product/viscos.jpg",
-        "excerpt": "Rayon Fabric",
-        "title": "Rayon Dark Rose Solid Fabric",
-        "categories": ["Rayon"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "img/product/verbos1.jpg"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 6,
-        "type": "image",
-        "homeImage": "img/product/viscos2.jpg",
-        "title": "White Paper",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["Lyocell"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 6,
-        "type": "image",
-        "homeImage": "img/product/cotton4.jpg",
-        "title": "White Paper",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["Hemp"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 6,
-        "type": "image",
-        "homeImage": "img/product/cotton4.jpg",
-        "title": "White Paper",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["Jacquard"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
-        "services": "Natural, Studio, Commercial, <br />Portrait",
-        "body": [
-            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
-            ""
-        ],
-        "pageUrl": {
-            "text": "https://yourwebsite.com",
-            "link": "/"
-        },
-        "gallery": {
-            "imageOne": "./img/portfolio/s1.jpg",
-            "imageTwo": "./img/portfolio/s2.jpg",
-            "imageThree": "./img/portfolio/s3.jpg",
-            "imageFour": "./img/portfolio/sv1.jpg",
-            "imageFive": "./img/portfolio/s4.jpg"
-        }
-    },
-    {
-        "id": 7,
-        "type": "image",
-        "homeImage": "img/product/viscos.jpg",
-        "title": "Connect Online",
-        "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["featured"],
-        "client": "Archo Architecture <br />Bureau, SG",
-        "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
@@ -380,14 +190,15 @@
     },
     {
         "id": 8,
-        "type": "image",
-        "homeImage": "img/product/cotton2.jpg",
-        "title": "Dog With Fun",
+        "type": "video",
+        "homeImage": "img/product/cotton.jpg",
+        "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
+        "title": "Designer Collagraph",
         "excerpt": "Mango Fashion Lookbook Campaign",
-        "categories": ["Flax"],
+        "categories": ["Linen"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
@@ -408,13 +219,202 @@
     {
         "id": 9,
         "type": "image",
+        "homeImage": "img/product/viscos3.jpg",
+        "title": "Designer Engraving",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["Polyester"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 10,
+        "type": "image",
+        "homeImage": "img/product/viscos.jpg",
+        "excerpt": "Rayon Fabric",
+        "title": "Rayon Dark Rose Solid Fabric",
+        "categories": ["Rayon"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "img/product/verbos1.jpg"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 11,
+        "type": "image",
+        "homeImage": "img/product/viscos2.jpg",
+        "title": "White Paper",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["Lyocell"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Fabric is made out of high-quality cotton. The product weighs around 70 – 90 grams per square meter (GSM) and is woven in a Butta style printed woven fabric. This Cotton Yellow Clip Dot Print Fabric is ideal for kurtis/shirts/chudithars/etc. to make you stand out from the crowd.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 12,
+        "type": "image",
+        "homeImage": "img/product/cotton4.jpg",
+        "title": "White Paper",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["Hemp"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 13,
+        "type": "image",
+        "homeImage": "img/product/cotton4.jpg",
+        "title": "White Paper",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["Jacquard"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 14,
+        "type": "image",
+        "homeImage": "img/product/viscos.jpg",
+        "title": "Connect Online",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["featured"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 15,
+        "type": "image",
+        "homeImage": "img/product/cotton2.jpg",
+        "title": "Dog With Fun",
+        "excerpt": "Mango Fashion Lookbook Campaign",
+        "categories": ["Flax"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "/"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 16,
+        "type": "image",
         "homeImage": "img/product/cotton3.jpg",
         "title": "Salfe Made",
         "excerpt": "Mango Fashion Lookbook Campaign",
         "categories": ["Jacquard"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
-        "team": "Nindia H. - Editor <br />Kate E. - Photographer",
+        "team": "GSM - Editor <br />Color - Photographer",
         "services": "Natural, Studio, Commercial, <br />Portrait",
         "body": [
             "<p>Updated portraits of all Instrument employees for the new Instrument site. A unified look and background allows photos to mesh seamlessly online. To see it live check out:</p>",

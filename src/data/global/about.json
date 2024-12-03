@@ -1,19 +1,13 @@
 [
     {
         "id": "about me",
-        "title": "Say Hello From Alexis !",
-        "excerpt": "We are a fairly small, flexible design studio that designs for print and web. <br>Alexis works flexibly with clients to fulfil their design needs. Whether you need to create a brand from scratch, including marketing and a beautiful and functional website or whether you are looking for a great experience."
+        "title": "Our Vision",
+        "excerpt": " To be come an international market leader in all woven fabric manufacturing and exporting, To be a one-stop fabric sourcing solution for all sustainable and ethical garments demands and supply the same with international quality and standards"
     },
     {
-        "id": "about service",
-        "title": "Our Services",
-        "pagelinkText": [
-            "Branding & Strategy",
-            "Web Design & Development",
-            "Packaging Design",
-            "Video & Animation",
-            "Marketing, SEO & Social Media"
-        ]
+        "id": "about me",
+        "title": "Our Mission",
+        "excerpt": "To be an ethical, transparent and responsible global organization. updating continuously on technology & team management to meet the requirement of the ever changing fashion industry"
     },
     {
         "id": "team",
@@ -25,61 +19,13 @@
                 "image": "./img/team/01.jpg",
                 "name": "Joe Biden",
                 "designation": "CEO Founder"
-            },
-            {
-                "id": 2,
-                "classOption": "team-member",
-                "image": "./img/team/02.jpg",
-                "name": "Alex Tuntuni",
-                "designation": "CEO Founder"
-            },
-            {
-                "id": 3,
-                "classOption": "team-member",
-                "image": "./img/team/03.jpg",
-                "name": "Blanche Fields",
-                "designation": "CEO Founder"
-            },
-            {
-                "id": 4,
-                "classOption": "team-member",
-                "image": "./img/team/04.jpg",
-                "name": "Alex Tuntuni",
-                "designation": "CEO Founder"
-            },
-            {
-                "id": 5,
-                "classOption": "team-member",
-                "image": "./img/team/05.jpg",
-                "name": "Blanche Fields",
-                "designation": "CEO Founder"
-            },
-            {
-                "id": 6,
-                "classOption": "team-member",
-                "image": "./img/team/06.jpg",
-                "name": "Alex Tuntuni",
-                "designation": "CEO Founder"
-            },
-            {
-                "id": 7,
-                "classOption": "team-member",
-                "image": "./img/team/07.jpg",
-                "name": "Blanche Fields",
-                "designation": "CEO Founder"
-            },
-            {
-                "id": 8,
-                "classOption": "team-member become-member",
-                "image": "./img/team/01.jpg",
-                "name": "Become <br>member in <br>Alexis"
             }
         ]
     },
     {
         "id": "blockquote",
-        "excerpt": "I’ve worked with many agencies throughout the world. <br />I’ve found Alexis to be one of those special agencies you wish all the others were like.",
-        "name": "Ellen Krelamine",
+        "excerpt": "To be an ethical, transparent and responsible global organization. updating continuously on technology & team management to meet the requirement of the ever changing fashion industry",
+        "name": "Our Mission",
         "designation": "CEO at Drfurion"
     },
     {

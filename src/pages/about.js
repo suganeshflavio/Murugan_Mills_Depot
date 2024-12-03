@@ -5,6 +5,7 @@ import AboutAward from "../containers/about/about-award";
 import AboutService from "../containers/about/about-service/index.jsx";
 import Blockquote from "../containers/about/blockquote";
 import AboutGallery from "../containers/about/gallery";
+import AboutServicecopy from "../containers/about/about-service copy";
 import TeamContainer from "../containers/about/team";
 import BrandContainer from "../containers/global/brand";
 import PageTitleContainer from "../containers/global/page-title";
@@ -16,17 +17,18 @@ const AboutPage = () => {
     return (
         <React.Fragment>
             <Layout>
-                <SEO title="Alexis || About" />
+                <SEO title="Murugan Mills Depot || Portfolio" />
                 <div className="wrapper about-page-wrapper">
                     <Header classOption="hb-border" />
                     <div className="main-content">
                         <PageTitleContainer />
                         <AboutService />
                         <TeamContainer />
-                        <Blockquote />
-                        <AboutGallery />
+                        {/* <Blockquote /> */}
+                        <AboutServicecopy />
+                        {/* <AboutGallery /> */}
                         <AboutAward />
-                        <BrandContainer />
+                        {/* <BrandContainer /> */}
                     </div>
                     <Footer />
                     <ScrollToTop />

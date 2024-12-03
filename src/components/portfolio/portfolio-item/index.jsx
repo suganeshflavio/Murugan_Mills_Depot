@@ -33,8 +33,17 @@ const PortfolioItem = ({ portfolio }) => {
                         {portfolio.title}
                     </Link>
                 </h3>
-                <p className="desc">{portfolio.excerpt}</p>
             </div>
+            <h5
+                className="desc"
+                style={{
+                    textAlign: "center",
+                    marginTop: "10px",
+                    marginBottom: "10px",
+                }}
+            >
+                {portfolio.excerpt}
+            </h5>
         </div>
     );
 };

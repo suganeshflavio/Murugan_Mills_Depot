@@ -16,9 +16,9 @@ const Blockquote = () => {
                                 <span className="name">
                                     {AboutData[3].name}
                                 </span>
-                                <span className="job">
+                                {/* <span className="job">
                                     {AboutData[3].designation}
-                                </span>
+                                </span> */}
                             </div>
                         </blockquote>
                     </div>

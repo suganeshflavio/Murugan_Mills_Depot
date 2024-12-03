@@ -46,7 +46,7 @@ const Header = ({ classOption }) => {
                                 <h3>Murugan Mills Depot</h3>
                             </div>
                         </div>
-                        <div className="col-auto">
+                        <div className="col-auto hide-on-small-screens">
                             <div
                                 className="header-logo-area"
                                 style={{ display: "flex" }}
