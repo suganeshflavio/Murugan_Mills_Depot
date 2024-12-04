@@ -2,7 +2,23 @@
     {
         "slider": [
             {
+                "id": 2,
+                "backgroundImage": "img/image/Knits.png",
+                "title": "Walk on the Wild Side Fashion That’s Fiercely You",
+                "subTitle": "Modern Fabric for the Modern Maker",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            },
+            {
                 "id": 1,
+                "backgroundImage": "img/image/New_Arrivals.png",
+                "title": "Lovingly curated fabric + patterns for garment making",
+                "subTitle": "Reimagining the Future of Fabric",
+                "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+                "buttonText": "Explore now"
+            },
+            {
+                "id": 3,
                 "backgroundImage": "img/image/carousel1.png",
                 "title": "Lovingly curated fabric + patterns for garment making",
                 "subTitle": "Reimagining the Future of Fabric",
@@ -10,7 +26,7 @@
                 "buttonText": "Explore now"
             },
             {
-                "id": 2,
+                "id": 4,
                 "backgroundImage": "img/image/carousel2.png",
                 "title": "Walk on the Wild Side Fashion That’s Fiercely You",
                 "subTitle": "Modern Fabric for the Modern Maker",

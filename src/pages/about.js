@@ -24,9 +24,9 @@ const AboutPage = () => {
                         <PageTitleContainer />
                         <AboutService />
                         <AboutServicecopy />
-                        <TeamContainer />
                         {/* <Blockquote /> */}
-                        {/* <AboutGallery /> */}
+                        <AboutGallery />
+                        <TeamContainer />
                         {/* <AboutAward /> */}
                         {/* <BrandContainer /> */}
                     </div>
