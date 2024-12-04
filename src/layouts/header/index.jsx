@@ -43,7 +43,9 @@ const Header = ({ classOption }) => {
                                 {/* <Logo
                                     image={`${process.env.PUBLIC_URL}/img/logo.png`}
                                 /> */}
-                                <h3>Murugan Mills Depot</h3>
+                                <Link to={process.env.PUBLIC_URL + "/"}>
+                                    <h3>Murugan Mills Depot</h3>
+                                </Link>
                             </div>
                         </div>
                         <div className="col-auto hide-on-small-screens">

@@ -31,9 +31,9 @@
     {
         "id": "about gallery",
         "gallery": {
-            "imageOne": "./img/photos/g-01.jpg",
-            "imageTwo": "./img/photos/g-02.jpg",
-            "imageThree": "./img/photos/g-03.jpg"
+            "imageOne": "./img/image/post-image6-890x664.jpg",
+            "imageTwo": "./img/image/post-image3-890x664.jpg",
+            "imageThree": "./img/image/textile-img-10.jpg"
         }
     },
     {

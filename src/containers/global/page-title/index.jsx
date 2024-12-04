@@ -17,7 +17,9 @@ const PageTitleContainer = () => {
             <div className="thumb" data-aos="fade-up" data-aos-delay="300">
                 <img
                     className="w-100"
-                    src={process.env.PUBLIC_URL + "./img/about/01.jpg"}
+                    src={
+                        process.env.PUBLIC_URL + "./img/image/textile-img-5.jpg"
+                    }
                     alt="Alexis"
                 />
             </div>
