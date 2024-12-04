@@ -4,16 +4,16 @@
             {
                 "id": 1,
                 "backgroundImage": "img/image/carousel1.png",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire adsddas 2026",
+                "title": "Lovingly curated fabric + patterns for garment making",
+                "subTitle": "Reimagining the Future of Fabric",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
             },
             {
                 "id": 2,
                 "backgroundImage": "img/image/carousel2.png",
-                "title": "Vouge Italia Deember Campaign",
-                "subTitle": "inspire adasd 2026",
+                "title": "Walk on the Wild Side Fashion That’s Fiercely You",
+                "subTitle": "Modern Fabric for the Modern Maker",
                 "desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
                 "buttonText": "Explore now"
             }
