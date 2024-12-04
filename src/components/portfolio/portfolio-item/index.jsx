@@ -22,7 +22,7 @@ const PortfolioItem = ({ portfolio }) => {
                     </div>
                 </LightgalleryItem>
             </LightgalleryProvider>
-            <div className="content">
+            {/* <div className="content">
                 <h3 className="title">
                     <Link
                         to={
@@ -33,16 +33,24 @@ const PortfolioItem = ({ portfolio }) => {
                         {portfolio.title}
                     </Link>
                 </h3>
-            </div>
+            </div> */}
             <h5
                 className="desc"
                 style={{
                     textAlign: "center",
-                    marginTop: "10px",
+                    marginTop: "18px",
                     marginBottom: "5px",
                 }}
             >
-                {portfolio.excerpt}
+                <Link
+                    to={
+                        process.env.PUBLIC_URL +
+                        `/portfolio-details/${portfolio.id}`
+                    }
+                >
+                    {/* {portfolio.title} */}
+                    {portfolio.excerpt}
+                </Link>
             </h5>
         </div>
     );
