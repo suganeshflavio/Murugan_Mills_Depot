@@ -16,7 +16,7 @@ const TeamContainer = () => {
                         AboutData[2].team.map((single, key) => {
                             return (
                                 <div
-                                    className="col-sm-6 col-md-3"
+                                    className="col-6 col-sm-6 col-md-3"
                                     key={key}
                                     data-aos="fade-up"
                                 >

@@ -17,7 +17,7 @@ const Team = ({ data }) => {
                     </h3>
                     <span className="designation">{data.designation}</span>
                 </div>
-                <div className="member-icons">
+                {/* <div className="member-icons">
                     <a
                         href="https://twitter.com/"
                         target="_blank"
@@ -39,7 +39,7 @@ const Team = ({ data }) => {
                     >
                         <i className="social_linkedin_square"></i>
                     </a>
-                </div>
+                </div> */}
             </div>
         </div>
     );

@@ -17,8 +17,15 @@
                 "id": 1,
                 "classOption": "team-member",
                 "image": "./img/team/01.jpg",
-                "name": "Joe Biden",
-                "designation": "CEO Founder"
+                "name": "Rajendran",
+                "designation": "Founder & CEO"
+            },
+            {
+                "id": 1,
+                "classOption": "team-member",
+                "image": "./img/team/01.jpg",
+                "name": "S.R. Vishnu",
+                "designation": "MD & CEO"
             }
         ]
     },
