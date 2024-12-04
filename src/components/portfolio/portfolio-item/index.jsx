@@ -39,7 +39,7 @@ const PortfolioItem = ({ portfolio }) => {
                 style={{
                     textAlign: "center",
                     marginTop: "10px",
-                    marginBottom: "10px",
+                    marginBottom: "5px",
                 }}
             >
                 {portfolio.excerpt}

@@ -2,7 +2,7 @@
     {
         "id": 1,
         "type": "image",
-        "homeImage": "img/product/cotton.jpg",
+        "homeImage": "img/product/p1.jpg",
         "excerpt": "Cotton Fabric",
         "title": "B&W Yarn Dyed Cotton Fabric",
         "categories": ["cotton"],
@@ -16,7 +16,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p1.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -56,7 +56,7 @@
     {
         "id": 3,
         "type": "image",
-        "homeImage": "img/product/cotton3.jpg",
+        "homeImage": "img/product/p3.jpg",
         "excerpt": "Cotton Fabric",
         "title": "Beige Color Dyed Twill Cotton Fabric",
         "categories": ["cotton"],
@@ -70,7 +70,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "img/product/cotton3.jpg"
+            "link": "img/product/p3.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -83,7 +83,7 @@
     {
         "id": 4,
         "type": "image",
-        "homeImage": "img/product/cotton4.jpg",
+        "homeImage": "img/product/p4.jpg",
         "excerpt": "Cotton Fabric",
         "title": "Blue & White Cotton Stripe Fabric",
         "categories": ["cotton"],
@@ -97,7 +97,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "img/product/cotton4.jpg"
+            "link": "img/product/p4.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -110,7 +110,7 @@
     {
         "id": 5,
         "type": "image",
-        "homeImage": "img/product/viscos.jpg",
+        "homeImage": "img/product/p2.jpg",
         "excerpt": "Rayon Fabric",
         "title": "Rayon Dark Rose Solid Fabric",
         "categories": ["Viscose"],
@@ -124,7 +124,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "img/product/viscos1.jpg"
+            "link": "img/product/p2.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -137,7 +137,7 @@
     {
         "id": 6,
         "type": "image",
-        "homeImage": "img/product/viscos2.jpg",
+        "homeImage": "img/product/p5.jpg",
         "excerpt": "Viscose Fabric",
         "title": "Viscose Blue Dyed Hightwist Woven",
         "categories": ["Viscose"],
@@ -151,7 +151,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "img/product/viscos2.jpg"
+            "link": "img/product/p5.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -164,7 +164,7 @@
     {
         "id": 7,
         "type": "image",
-        "homeImage": "img/product/viscos3.jpg",
+        "homeImage": "img/product/p6.jpg",
         "excerpt": "Viscos Fabric",
         "title": "Viscose Blue White Stripe Yarn Dyed",
         "categories": ["Viscose"],
@@ -178,7 +178,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p6.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -191,10 +191,10 @@
     {
         "id": 8,
         "type": "video",
-        "homeImage": "img/product/cotton.jpg",
+        "homeImage": "img/product/p7.jpg",
         "videoUrl": "https://www.youtube.com/embed/KzhSW1Ztq1w",
-        "title": "Designer Collagraph",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "excerpt": "Linen Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["Linen"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -206,7 +206,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p7.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -219,9 +219,9 @@
     {
         "id": 9,
         "type": "image",
-        "homeImage": "img/product/viscos3.jpg",
-        "title": "Designer Engraving",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "homeImage": "img/product/p8.jpg",
+        "excerpt": "Designer Engraving",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["Polyester"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -233,7 +233,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p8.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -246,7 +246,7 @@
     {
         "id": 10,
         "type": "image",
-        "homeImage": "img/product/viscos.jpg",
+        "homeImage": "img/product/p9.jpg",
         "excerpt": "Rayon Fabric",
         "title": "Rayon Dark Rose Solid Fabric",
         "categories": ["Rayon"],
@@ -260,7 +260,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "img/product/verbos1.jpg"
+            "link": "img/product/p9.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -273,9 +273,9 @@
     {
         "id": 11,
         "type": "image",
-        "homeImage": "img/product/viscos2.jpg",
-        "title": "White Paper",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "homeImage": "img/product/p10.jpg",
+        "excerpt": "Lyocell Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["Lyocell"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -287,7 +287,7 @@
         ],
         "pageUrl": {
             "text": "",
-            "link": "/"
+            "link": "img/product/p10.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -300,9 +300,9 @@
     {
         "id": 12,
         "type": "image",
-        "homeImage": "img/product/cotton4.jpg",
-        "title": "White Paper",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "homeImage": "img/product/p11.jpg",
+        "excerpt": "Hemp Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["Hemp"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -314,7 +314,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p11.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -327,9 +327,9 @@
     {
         "id": 13,
         "type": "image",
-        "homeImage": "img/product/cotton4.jpg",
-        "title": "White Paper",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "homeImage": "img/product/p12.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["Jacquard"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -341,7 +341,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p12.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -354,9 +354,9 @@
     {
         "id": 14,
         "type": "image",
-        "homeImage": "img/product/viscos.jpg",
-        "title": "Connect Online",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "homeImage": "img/product/p13.jpg",
+        "excerpt": "Connect Online",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["featured"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -368,7 +368,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p13.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -381,9 +381,9 @@
     {
         "id": 15,
         "type": "image",
-        "homeImage": "img/product/cotton2.jpg",
-        "title": "Dog With Fun",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "homeImage": "img/product/p14.jpg",
+        "excerpt": "Flax Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["Flax"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -395,7 +395,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p14.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -408,9 +408,9 @@
     {
         "id": 16,
         "type": "image",
-        "homeImage": "img/product/cotton3.jpg",
-        "title": "Salfe Made",
-        "excerpt": "Mango Fashion Lookbook Campaign",
+        "homeImage": "img/product/p15.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
         "categories": ["Jacquard"],
         "client": "Archo Architecture <br />Bureau, SG",
         "date": "September 25th <br />2020",
@@ -422,7 +422,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "/"
+            "link": "img/product/p15.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
