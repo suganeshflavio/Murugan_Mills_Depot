@@ -10,6 +10,8 @@ const PortfolioDetailsContainer = ({ data }) => {
             </span>
         );
     });
+    console.log("data", data);
+
     return (
         <div className="portfolio-area portfolio-single">
             <div className="container">
@@ -228,13 +230,21 @@ const PortfolioDetailsContainer = ({ data }) => {
                     >
                         <div className="portfolio-navigation">
                             <div className="prev">
-                                <Link to={process.env.PUBLIC_URL + "/"}>
+                                <Link
+                                    to={`${
+                                        process.env.PUBLIC_URL
+                                    }/portfolio-details/${data.id - 1}`}
+                                >
                                     <i className="arrow_carrot-left"></i>{" "}
                                     Previous
                                 </Link>
                             </div>
                             <div className="next">
-                                <Link to={process.env.PUBLIC_URL + "/"}>
+                                <Link
+                                    to={`${
+                                        process.env.PUBLIC_URL
+                                    }/portfolio-details/${data.id + 1}`}
+                                >
                                     Next <i className="arrow_carrot-right"></i>
                                 </Link>
                             </div>

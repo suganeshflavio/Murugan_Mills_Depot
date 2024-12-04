@@ -10,10 +10,11 @@ const Team = ({ data }) => {
             <div className="content">
                 <div className="member-info">
                     <h3 className="name">
-                        <Link
+                        {data.name}
+                        {/* <Link
                             to={process.env.PUBLIC_URL + "/"}
                             dangerouslySetInnerHTML={{ __html: data.name }}
-                        ></Link>
+                        ></Link> */}
                     </h3>
                     <span className="designation">{data.designation}</span>
                 </div>
