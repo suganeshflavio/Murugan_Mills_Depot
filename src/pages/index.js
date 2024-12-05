@@ -7,6 +7,7 @@ import IntroContainer from "../containers/home/intro/index.jsx";
 import Footer from "../layouts/footer";
 import Header from "../layouts/header/index";
 import Layout from "../layouts/index";
+// import BrandContainer from "../containers/global/brand";
 
 const HomePage = () => {
     return (
@@ -19,6 +20,7 @@ const HomePage = () => {
                     <div className="main-content">
                         <QuteContainer />
                         <PortfolioContainer />
+                        {/* <BrandContainer /> */}
                     </div>
                     <Footer />
                     <ScrollToTop />

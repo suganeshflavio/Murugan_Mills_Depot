@@ -29,7 +29,7 @@
     {
         "id": 2,
         "type": "image",
-        "homeImage": "img/product/cotton6.jpg",
+        "homeImage": "img/product/p22.jpg",
         "excerpt": "Cotton Fabric",
         "title": "2/2 Matty RFD Cotton Fabric Material",
         "categories": ["cotton"],
@@ -43,7 +43,7 @@
         ],
         "pageUrl": {
             "text": "https://yourwebsite.com",
-            "link": "img/product/cotton6.jpg"
+            "link": "img/product/p22.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",
@@ -423,6 +423,168 @@
         "pageUrl": {
             "text": "https://yourwebsite.com",
             "link": "img/product/p15.jpg"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 17,
+        "type": "image",
+        "homeImage": "img/product/p16.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
+        "categories": ["Jacquard"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Fabric is made out of high-quality cotton. The product weighs around 70 – 90 grams per square meter (GSM) and is woven in a Butta style printed woven fabric. This Cotton Yellow Clip Dot Print Fabric is ideal for kurtis/shirts/chudithars/etc. to make you stand out from the crowd.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "img/product/p16.jpg"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 18,
+        "type": "image",
+        "homeImage": "img/product/p17.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
+        "categories": ["Jacquard"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Fabric is made out of high-quality cotton. The product weighs around 70 – 90 grams per square meter (GSM) and is woven in a Butta style printed woven fabric. This Cotton Yellow Clip Dot Print Fabric is ideal for kurtis/shirts/chudithars/etc. to make you stand out from the crowd.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "img/product/p17.jpg"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 19,
+        "type": "image",
+        "homeImage": "img/product/p18.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
+        "categories": ["Jacquard"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Fabric is made out of high-quality cotton. The product weighs around 70 – 90 grams per square meter (GSM) and is woven in a Butta style printed woven fabric. This Cotton Yellow Clip Dot Print Fabric is ideal for kurtis/shirts/chudithars/etc. to make you stand out from the crowd.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "img/product/p18.jpg"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 20,
+        "type": "image",
+        "homeImage": "img/product/p19.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
+        "categories": ["Jacquard"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Fabric is made out of high-quality cotton. The product weighs around 70 – 90 grams per square meter (GSM) and is woven in a Butta style printed woven fabric. This Cotton Yellow Clip Dot Print Fabric is ideal for kurtis/shirts/chudithars/etc. to make you stand out from the crowd.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "img/product/p19.jpg"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 21,
+        "type": "image",
+        "homeImage": "img/product/p20.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
+        "categories": ["Jacquard"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Fabric is made out of high-quality cotton. The product weighs around 70 – 90 grams per square meter (GSM) and is woven in a Butta style printed woven fabric. This Cotton Yellow Clip Dot Print Fabric is ideal for kurtis/shirts/chudithars/etc. to make you stand out from the crowd.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "img/product/p20.jpg"
+        },
+        "gallery": {
+            "imageOne": "./img/portfolio/s1.jpg",
+            "imageTwo": "./img/portfolio/s2.jpg",
+            "imageThree": "./img/portfolio/s3.jpg",
+            "imageFour": "./img/portfolio/sv1.jpg",
+            "imageFive": "./img/portfolio/s4.jpg"
+        }
+    },
+    {
+        "id": 22,
+        "type": "image",
+        "homeImage": "img/product/p21.jpg",
+        "excerpt": "Jacquard Fabric",
+        "title": "Mango Fashion Lookbook Campaign",
+        "categories": ["Jacquard"],
+        "client": "Archo Architecture <br />Bureau, SG",
+        "date": "September 25th <br />2020",
+        "team": "GSM - Editor <br />Color - Photographer",
+        "services": "Natural, Studio, Commercial, <br />Portrait",
+        "body": [
+            "<p>Fabric is made out of high-quality cotton. The product weighs around 70 – 90 grams per square meter (GSM) and is woven in a Butta style printed woven fabric. This Cotton Yellow Clip Dot Print Fabric is ideal for kurtis/shirts/chudithars/etc. to make you stand out from the crowd.</p>",
+            ""
+        ],
+        "pageUrl": {
+            "text": "https://yourwebsite.com",
+            "link": "img/product/p21.jpg"
         },
         "gallery": {
             "imageOne": "./img/portfolio/s1.jpg",

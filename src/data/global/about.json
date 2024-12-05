@@ -78,28 +78,23 @@
     },
     {
         "id": "Brand",
-        "title": "Our Clients",
+        "title": "Our Certificates",
         "excerpt": "Alexis has been honored to partner up with these clients.",
         "brand": [
             {
                 "id": 1,
-                "image": "./img/brand-logo/01.png"
+                "image": "./img/brand-logo/msme.jpg",
+                "pdfPath": "./img/New Folder/MSME.pdf"
             },
             {
                 "id": 2,
-                "image": "./img/brand-logo/01.png"
+                "image": "./img/brand-logo/idfl.jpg",
+                "pdfPath": "./img/New Folder/IDFL_1.pdf"
             },
             {
                 "id": 3,
-                "image": "./img/brand-logo/01.png"
-            },
-            {
-                "id": 4,
-                "image": "./img/brand-logo/01.png"
-            },
-            {
-                "id": 5,
-                "image": "./img/brand-logo/01.png"
+                "image": "./img/brand-logo/smeta.png",
+                "pdfPath": "./img/New Folder/SMETA.pdf"
             }
         ]
     }

@@ -7,7 +7,7 @@ import Blockquote from "../containers/about/blockquote";
 import AboutGallery from "../containers/about/gallery";
 import AboutServicecopy from "../containers/about/about-service copy";
 import TeamContainer from "../containers/about/team";
-import BrandContainer from "../containers/global/brand";
+// import BrandContainer from "../containers/global/brand";
 import PageTitleContainer from "../containers/global/page-title";
 import Footer from "../layouts/footer";
 import Header from "../layouts/header/index";
