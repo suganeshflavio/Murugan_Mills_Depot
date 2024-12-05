@@ -20,7 +20,7 @@ const PageTitleContainer = () => {
                     src={
                         process.env.PUBLIC_URL + "./img/image/textile-img-5.jpg"
                     }
-                    alt="Alexis"
+                    alt="Murugan Mills Depot"
                 />
             </div>
         </div>

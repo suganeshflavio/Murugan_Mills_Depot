@@ -113,7 +113,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                                 <img
                                     className="w-100"
                                     src={`${process.env.PUBLIC_URL}/${data.gallery.imageOne}`}
-                                    alt="Alexis"
+                                    alt="Murugan Mills Depot"
                                 />
                             </div>
                             <div className="row">
@@ -126,7 +126,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                                         <img
                                             className="w-100"
                                             src={`${process.env.PUBLIC_URL}/${data.gallery.imageTwo}`}
-                                            alt="Alexis"
+                                            alt="Murugan Mills Depot"
                                         />
                                     </div>
                                 </div>
@@ -142,7 +142,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                             <img
                                 className="w-100"
                                 src={`${process.env.PUBLIC_URL}/${data.gallery.imageThree}`}
-                                alt="Alexis"
+                                alt="Murugan Mills Depot"
                             />
                         </div>
                     </div>
@@ -156,7 +156,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                         <img
                             className="mb-xs-30 mb-sm-60"
                             src={`${process.env.PUBLIC_URL}/${data.gallery.imageFour}`}
-                            alt="Alexis"
+                            alt="Murugan Mills Depot"
                         />
                     </div>
                     <div
@@ -167,7 +167,7 @@ const PortfolioDetailsContainer = ({ data }) => {
                         <img
                             className="sm-pl-0 pl-md-50"
                             src={`${process.env.PUBLIC_URL}/${data.gallery.imageFive}`}
-                            alt="Alexis"
+                            alt="Murugan Mills Depot"
                         />
                     </div>
                 </div>

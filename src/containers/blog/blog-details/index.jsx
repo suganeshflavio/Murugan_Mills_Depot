@@ -40,7 +40,7 @@ const BlogDetailsContainer = ({ data }) => {
                                             <img
                                                 key={key}
                                                 src={`${process.env.PUBLIC_URL}/${single.image}`}
-                                                alt="Alexis"
+                                                alt="Murugan Mills Depot"
                                             />
                                         </SwiperSlide>
                                     );
@@ -52,7 +52,7 @@ const BlogDetailsContainer = ({ data }) => {
                     <div className="post-media">
                         <img
                             src={`${process.env.PUBLIC_URL}/${data.media.images}`}
-                            alt="Alexis"
+                            alt="Murugan Mills Depot"
                         />
                     </div>
                 )}

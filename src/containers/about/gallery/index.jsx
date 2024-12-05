@@ -13,7 +13,7 @@ const AboutGallery = () => {
                             <img
                                 className="w-100"
                                 src={`${process.env.PUBLIC_URL}/${AboutData[4].gallery.imageOne}`}
-                                alt="Alexis"
+                                alt="Murugan Mills Depot"
                             />
                         </div>
                     </div>
@@ -26,7 +26,7 @@ const AboutGallery = () => {
                             <img
                                 className="w-100"
                                 src={`${process.env.PUBLIC_URL}/${AboutData[4].gallery.imageTwo}`}
-                                alt="Alexis"
+                                alt="Murugan Mills Depot"
                             />
                         </div>
                     </div>
@@ -39,7 +39,7 @@ const AboutGallery = () => {
                             <img
                                 className="w-100"
                                 src={`${process.env.PUBLIC_URL}/${AboutData[4].gallery.imageThree}`}
-                                alt="Alexis"
+                                alt="Murugan Mills Depot"
                             />
                         </div>
                     </div>

@@ -44,7 +44,7 @@ const BlogItem = ({ data }) => {
                                             <img
                                                 key={key}
                                                 src={`${process.env.PUBLIC_URL}/${single.thumb}`}
-                                                alt="Alexis"
+                                                alt="Murugan Mills Depot"
                                             />
                                         </Link>
                                     </SwiperSlide>
@@ -60,7 +60,7 @@ const BlogItem = ({ data }) => {
                     >
                         <img
                             src={`${process.env.PUBLIC_URL}/${data.media.thumb}`}
-                            alt="Alexis-Blog"
+                            alt="Murugan Mills Depot-Blog"
                         />
                     </Link>
                 </div>
@@ -76,7 +76,7 @@ const BlogItem = ({ data }) => {
                 <div className="thumb">
                     <img
                         src={`${process.env.PUBLIC_URL}/${data.media.thumb}`}
-                        alt="Alexis-Blog"
+                        alt="Murugan Mills Depot-Blog"
                     />
                     <div className="overlay-content">
                         <div className="quotes">
