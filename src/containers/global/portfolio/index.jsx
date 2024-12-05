@@ -5,7 +5,7 @@ import PortfolioData from "../../../data/portfolio.json";
 import useMasonry from "../../../hooks/use-masonry";
 import { slugify } from "../../../utils";
 import AboutData from "../../../data/global/about.json";
-import "./Style.css";
+import "./Style.css"
 
 const PortfolioContainer = () => {
     // Isotope Categories list JS
@@ -130,11 +130,15 @@ const PortfolioContainer = () => {
                                                 ></button>
                                             </div>
                                             <div className="modal-body">
-                                                <embed
+                                                <iframe
                                                     src={currentPdf}
                                                     type="application/pdf"
                                                     width="100%"
                                                     height="500px"
+                                                    style={{
+                                                        border: "none",
+                                                        minHeight: "500px",
+                                                    }}
                                                 />
                                             </div>
                                             <div className="modal-footer">
