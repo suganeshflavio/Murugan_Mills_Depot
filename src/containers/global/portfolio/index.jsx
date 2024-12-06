@@ -130,7 +130,7 @@ const PortfolioContainer = () => {
                                                 ></button>
                                             </div>
                                             <div className="modal-body">
-                                                <iframe
+                                                <embed
                                                     src={currentPdf}
                                                     type="application/pdf"
                                                     width="100%"
