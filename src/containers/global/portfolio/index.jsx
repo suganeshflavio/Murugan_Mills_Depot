@@ -5,7 +5,7 @@ import PortfolioData from "../../../data/portfolio.json";
 import useMasonry from "../../../hooks/use-masonry";
 import { slugify } from "../../../utils";
 import AboutData from "../../../data/global/about.json";
-import "./Style.css"
+import "./Style.css";
 
 const PortfolioContainer = () => {
     // Isotope Categories list JS
