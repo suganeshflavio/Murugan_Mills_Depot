@@ -40,6 +40,7 @@ const PortfolioItem = ({ portfolio }) => {
                     textAlign: "center",
                     marginTop: "18px",
                     marginBottom: "5px",
+                    display: "none",
                 }}
             >
                 <Link
@@ -48,7 +49,6 @@ const PortfolioItem = ({ portfolio }) => {
                         `/portfolio-details/${portfolio.id}`
                     }
                 >
-                    {/* {portfolio.title} */}
                     {portfolio.excerpt}
                 </Link>
             </h5>
