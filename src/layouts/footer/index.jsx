@@ -53,13 +53,17 @@ const Footer = () => {
                                     {/* <FooterLogo
                                         image={`${process.env.PUBLIC_URL}/img/logo.png`}
                                     /> */}
-                                    <h3>Murugan Mills Depot</h3>
+                                    <Link to={process.env.PUBLIC_URL + "/"}>
+                                        <h3>Murugan Mills Depot</h3>
+                                    </Link>
                                 </div>
                                 <div className="widget-copyright">
                                     <p>
                                         © {year}{" "}
-                                        <span>Murugan Mills Depot</span> | All
-                                        Rights Reserved
+                                        <Link to={process.env.PUBLIC_URL + "/"}>
+                                            <span>Murugan Mills Depot</span>
+                                        </Link>{" "}
+                                        | All Rights Reserved
                                     </p>
                                 </div>
                             </div>
